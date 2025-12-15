@@ -1,5 +1,9 @@
 ## Hi there 👋
-# 👋 Hi, I'm Diya Rastogi  
+# 👋 Hi, I'm Diya Rastogi 
+A Machine Learning enthusiast with 7+ months of hands-on research experience at IIT Delhi on ICMR-funded healthcare AI
+project. Specialized in medical imaging classification, radiomics analysis and explainable AI. Proficient in building
+production-grade ML pipelines with strong foundation in model evaluation, hyperparameter optimization and handling
+class imbalance in real-world healthcare datasets.
 
 🎓 **B.Tech Computer Science, Bennett University (2022–26)**  
 🔬 **Machine Learning Research Intern @ IIT Delhi**  
