@@ -1,50 +1,57 @@
-## Hi there 👋
-# 👋 Hi, I'm Diya Rastogi 
-A Machine Learning enthusiast with 7+ months of hands-on research experience at IIT Delhi on ICMR-funded healthcare AI
-project. Specialized in medical imaging classification, radiomics analysis and explainable AI. Proficient in building
-production-grade ML pipelines with strong foundation in model evaluation, hyperparameter optimization and handling
-class imbalance in real-world healthcare datasets.
+# 👋 Hi, I'm Diya Rastogi
+
+🔬 **ML Research Intern @ IIT Delhi** | 🏥 **Healthcare AI Specialist** | 🎓 **B.Tech CSE '26**
+
+Currently working on ICMR-funded research at IIT Delhi to differentiate lung metastases from benign nodules using AI—addressing a critical gap in medical imaging diagnostics.
 
 ---
 
-🎓 **B.Tech Computer Science, Bennett University (2022–26)**  
-🔬 **Machine Learning Research Intern @ IIT Delhi**  
-💡 Passionate about **Healthcare AI, Explainable ML, and Predictive Analytics**  
+## 🚀 What I'm Working On
 
-🌱 I love building machine learning models that can make data-driven healthcare decisions more transparent and impactful.  
-💻 Currently working on **radiology-based cancer classification** and **prediabetes prediction research**.  
-
----
-
-### 🧩 Tech Stack
-**Languages:** Python, C++, SQL  
-**Libraries & Tools:** NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, SHAP, PyRadiomics, Git, Flask  
-**Concepts:** Feature Engineering, Model Evaluation, Explainable AI (XAI), Cross-validation, Hyperparameter Tuning  
+- 🫁 **Lung Nodule Classification:** Binary ML models achieving **0.87 ROC-AUC** on 2,000+ CT scan samples
+- 🧠 **Explainable AI:** Implementing SHAP for clinician-interpretable predictions
+- 📊 **Radiomics Pipeline:** Extracting 100+ quantitative biomarkers from medical images
 
 ---
 
-### 🚀 Projects
-- [Heart Disease Prediction Web App](https://github.com/diyart49/Heart-Disease-Prediction-using-Machine-Learning)  
-- IIT Delhi Research: Radiomics-based Cancer Classification (coming soon)  
-- Prediabetes ML Model (research draft under review)
+## 💻 Tech Stack
+
+**Languages:** Python • C++ • SQL  
+**ML/Data Science:** scikit-learn • NumPy • Pandas • Matplotlib • SHAP • PyRadiomics  
+**Tools:** Git • Jupyter • Flask • VS Code  
+**Specialization:** Medical Imaging • Binary Classification • Feature Engineering • Model Explainability
 
 ---
 
-### 📫 Connect With Me  
-[LinkedIn](https://www.linkedin.com/in/diya-rastogi-370806252) | [Email](mailto:diyarastogi2004@gmail.com)  
+## 📂 Featured Projects
 
+### 🏥 [Lung Nodule Classification](https://github.com/Diyart49/Lung-Nodule-Classification-IIT-Delhi) 
+*IIT Delhi Research Project*  
+Binary classifier to distinguish metastatic from benign lung nodules • 0.87 ROC-AUC • Radiomics + SHAP
 
-<!--
-**Diyart49/Diyart49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ❤️ [Heart Disease Prediction App](https://github.com/Diyart49/Heart-Disease-Prediction-using-Machine-Learning)
+Full-stack ML web application • Flask backend • 0.85 accuracy • Real-time risk prediction
 
-Here are some ideas to get you started:
+### 🩺 Prediabetes Prediction Model *(Coming Soon)*
+Early detection ML model • Feature importance analysis • Research paper in draft
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diyart49&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+🔗 **LinkedIn:** [linkedin.com/in/diya-rastogi-370806252](https://www.linkedin.com/in/diya-rastogi-370806252)  
+📧 **Email:** diyarastogi2004@gmail.com  
+💼 **Status:** 🟢 Immediate Joiner | Open to ML/AI roles | Remote & Delhi NCR
+
+---
+
+### 🎯 Current Focus
+Building production-ready ML solutions for healthcare • Improving model interpretability • Contributing to open-source medical imaging projects
+
+💡 *"AI should augment clinicians, not replace them—that's why explainability matters."*
