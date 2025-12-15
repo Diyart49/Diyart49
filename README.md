@@ -25,7 +25,7 @@
 ---
 
 ### 📫 Connect With Me  
-[LinkedIn]([https://www.linkedin.com/in/rastogidiya](https://www.linkedin.com/in/diya-rastogi-370806252)) | [Email](mailto:diyarastogi2004@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/diya-rastogi-370806252) | [Email](mailto:diyarastogi2004@gmail.com)  
 
 
 <!--
