@@ -5,6 +5,8 @@ project. Specialized in medical imaging classification, radiomics analysis and e
 production-grade ML pipelines with strong foundation in model evaluation, hyperparameter optimization and handling
 class imbalance in real-world healthcare datasets.
 
+---
+
 🎓 **B.Tech Computer Science, Bennett University (2022–26)**  
 🔬 **Machine Learning Research Intern @ IIT Delhi**  
 💡 Passionate about **Healthcare AI, Explainable ML, and Predictive Analytics**  
