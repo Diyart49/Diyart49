@@ -37,12 +37,6 @@ Early detection ML model • Feature importance analysis • Research paper in d
 
 ---
 
-## 📊 GitHub Stats
-
-![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diyart49&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 🔗 **LinkedIn:** [linkedin.com/in/diya-rastogi-370806252](https://www.linkedin.com/in/diya-rastogi-370806252)  
