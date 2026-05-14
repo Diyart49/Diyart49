@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Diya Rastogi
 
-🔬 **ML Research Intern @ IIT Delhi** | 🏥 **Healthcare AI Specialist** | 🎓 **B.Tech CSE '26**
+🔬 **Junior Research Fellow@ IIT Delhi** | 🏥 **ML Engineer** | 🎓 **B.Tech CSE '26**
 
-Currently working on ICMR-funded research at IIT Delhi to differentiate lung metastases from benign nodules using AI—addressing a critical gap in medical imaging diagnostics.
+Currently working on ICMR-funded AI/ML project at IIT Delhi to detect lung metastases using AI, addressing a critical gap in medical imaging diagnostics.
 
 ---
 
@@ -41,11 +41,11 @@ Early detection ML model • Feature importance analysis • Research paper in d
 
 🔗 **LinkedIn:** [linkedin.com/in/diya-rastogi-370806252](https://www.linkedin.com/in/diya-rastogi-370806252)  
 📧 **Email:** diyarastogi2004@gmail.com  
-💼 **Status:** 🟢 Immediate Joiner | Open to ML/AI roles | Remote & Delhi NCR
+💼 **Status:** 🟢 Immediate Joiner | Open to ML/AI/DS/GenAI roles 
 
 ---
 
-### 🎯 Current Focus
-Building production-ready ML solutions for healthcare • Improving model interpretability • Contributing to open-source medical imaging projects
+### 🎯 Focus
+Build something which doesn't limit to papers, but help the mankind!
 
-💡 *"AI should augment clinicians, not replace them—that's why explainability matters."*
+💡 *"AI should augment, not replace."*
